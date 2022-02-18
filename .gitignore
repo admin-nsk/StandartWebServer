@@ -1,1 +1,4 @@
 api.exe
+configs/api.toml
+configs/.env
+migrations/
